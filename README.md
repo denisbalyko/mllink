@@ -12,6 +12,7 @@
 ## Сайты
 * [Машинное обучение wiki](http://www.machinelearning.ru/)
 * [Глубинные нейронные сети](http://neuralnetworksanddeeplearning.com/)
+* [Dataquest](https://dataquest.io)
 
 ## Инструменты
 * [scikit](http://scikit-learn.org/stable/documentation.html)
