@@ -2,7 +2,7 @@
 
 ## Курсы
 * [Coursera ML](https://www.coursera.org/course/ml)
-* ...
+* [Лекции yandex 2014 (Воронцов К.В)](https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC)
 
 ## Статьи
 * [Рекомендации Spotify в музыке ](http://benanne.github.io/2014/08/05/spotify-cnns.html)
@@ -23,3 +23,6 @@
 ## Задачи
 * [http://www.tunedit.org/](http://www.tunedit.org/)
 * [http://www.kaggle.com/](http://www.kaggle.com/)
+
+## Данные 
+* [Коллекции данных для тестирования алгоритмов ML](http://archive.ics.uci.edu/ml/)
