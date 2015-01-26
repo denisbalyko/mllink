@@ -15,7 +15,7 @@
 * [Dataquest](https://dataquest.io)
 
 ## Инструменты
-* [scikit](http://scikit-learn.org/stable/documentation.html)
+* [scikit](http://scikit-learn.org/stable/documentation.html) [русс](http://igorsubbotin.blogspot.ru/2015/01/intro-to-scikit-learn.html)
 * [scipy](http://www.scipy.org/docs.html)
 * [numpy](http://docs.scipy.org/doc/numpy/)
 * [nolearn](https://pythonhosted.org/nolearn/)
