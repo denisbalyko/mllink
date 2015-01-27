@@ -27,5 +27,9 @@
 * [http://www.tunedit.org/](http://www.tunedit.org/)
 * [http://www.kaggle.com/](http://www.kaggle.com/)
 
+## Computer Vision
+* [OpenCV robocraft](http://robocraft.ru/page/opencv/)
+* [OpenCV tutorial](http://talkera.org/opencv/)
+
 ## Данные 
 * [Коллекции данных для тестирования алгоритмов ML](http://archive.ics.uci.edu/ml/)
