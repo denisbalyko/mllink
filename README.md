@@ -19,7 +19,8 @@
 * [scikit](http://scikit-learn.org/stable/documentation.html) ([русс](http://igorsubbotin.blogspot.ru/2015/01/intro-to-scikit-learn.html),
 [habr](http://habrahabr.ru/post/247751))
 * [scipy](http://www.scipy.org/docs.html)
-* [numpy](http://docs.scipy.org/doc/numpy/)
+* [numpy](http://www.numpy.org/) 
+([docs](http://docs.scipy.org/doc/numpy/))
 * [nolearn](https://pythonhosted.org/nolearn/)
 
 ## Задачи
