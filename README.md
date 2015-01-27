@@ -3,6 +3,7 @@
 ## Курсы
 * [Coursera ML](https://www.coursera.org/course/ml)
 * [Лекции yandex 2014 (Воронцов К.В)](https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC)
+* [Лекции: Компьютерное зрение](https://www.youtube.com/watch?v=yPkadNzedRk&list=PLbwKcm5vdiSa3wctonyNCSOPRVz2x_Pav)
 
 ## Статьи
 * [Рекомендации Spotify в музыке ](http://benanne.github.io/2014/08/05/spotify-cnns.html)
@@ -22,6 +23,8 @@
 * [numpy](http://www.numpy.org/) 
 ([docs](http://docs.scipy.org/doc/numpy/))
 * [nolearn](https://pythonhosted.org/nolearn/)
+* [opencv](http://opencv.org/)
+* [octave](https://www.gnu.org/software/octave/) - open source аналог matlab
 
 ## Задачи
 * [http://www.tunedit.org/](http://www.tunedit.org/)
