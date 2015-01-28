@@ -6,8 +6,9 @@
 * [Лекции: Компьютерное зрение](https://www.youtube.com/watch?v=yPkadNzedRk&list=PLbwKcm5vdiSa3wctonyNCSOPRVz2x_Pav)
 
 ## Статьи
-* [Рекомендации Spotify в музыке ](http://benanne.github.io/2014/08/05/spotify-cnns.html)
-* [Глубинное обучение на изображениях ](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
+* [Рекомендации Spotify в музыке](http://benanne.github.io/2014/08/05/spotify-cnns.html)
+* [Глубинное обучение на изображениях](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
+* [Глубинное обучение на изображениях](http://habrahabr.ru/post/249089/) и решение задачи на [kaggle](https://inclass.kaggle.com/c/svhn-mipt2)
 * [Решение задачи на kaggle разбор](http://www.kaggle.com/c/titanic-gettingStarted/details/getting-started-with-excel)
 * [Глубинное обучение в двух словах](http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell)
 
@@ -20,7 +21,7 @@
 * [scikit](http://scikit-learn.org/stable/documentation.html) ([русс](http://igorsubbotin.blogspot.ru/2015/01/intro-to-scikit-learn.html),
 [habr](http://habrahabr.ru/post/247751))
 * [scipy](http://www.scipy.org/docs.html)
-* [numpy](http://www.numpy.org/) 
+* [numpy](http://www.numpy.org/) [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
 ([docs](http://docs.scipy.org/doc/numpy/))
 * [nolearn](https://pythonhosted.org/nolearn/)
 * [opencv](http://opencv.org/)
