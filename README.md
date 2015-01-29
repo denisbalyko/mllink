@@ -62,3 +62,9 @@
 
 ## Данные 
 * [Коллекции данных для тестирования алгоритмов ML](http://archive.ics.uci.edu/ml/)
+* [Коллекция 200000+ Jeopardy json](http://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/)
+* [Коллекция 10000 изображений котов](http://137.189.35.203/WebUI/CatDatabase/catData.html)
+
+## Нашел аналог такой странички)
+* [Материалы](https://github.com/datasciencemasters/go)
+* [Данные](https://github.com/datasciencemasters/data)
