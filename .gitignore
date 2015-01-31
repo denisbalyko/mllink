@@ -143,3 +143,6 @@ crashlytics-build.properties
 
 # DB ignoring
 *.sqlite3
+
+# Local settings ignoring
+*local_settings*

@@ -17,7 +17,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 # See https://docs.djangoproject.com/en/1.7/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'bdfu-g=#dmday@&7_40nm+x6k7syjf&9$oq2mej)!2gi+=3+fr'
+SECRET_KEY = None
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -66,9 +66,9 @@ DATABASES = {
 # Internationalization
 # https://docs.djangoproject.com/en/1.7/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ru-ru'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Europe/Minsk'
 
 USE_I18N = True
 
@@ -80,4 +80,18 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
 
+ABSPATH = os.path.abspath(os.path.dirname(__file__))
+
+MEDIA_ROOT = os.path.join(ABSPATH, 'media')
+MEDIA_URL = '/media/'
+
+ADMIN_MEDIA_PREFIX = '/static/admin/'
+
+STATIC_ROOT = os.path.join(ABSPATH, 'static')
 STATIC_URL = '/static/'
+
+# Local setting
+try:
+    from local_settings import *
+except ImportError:
+    pass
